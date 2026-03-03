@@ -99,3 +99,8 @@ git clone https://github.com/Konsheng/Sensitive-lexicon.git
     <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=konsheng/Sensitive-lexicon&type=Date" />
   </picture>
 </a>
+
+## Contributors
+<a href="https://github.com/konsheng/Sensitive-lexicon/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=konsheng/Sensitive-lexicon" />
+</a>
